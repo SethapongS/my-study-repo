@@ -1,1 +1,1 @@
-# My-school-project
+# my-study-repo
