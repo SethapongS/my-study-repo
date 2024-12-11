@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<HTML>
+  <head>
+    <title>About Me</title>
+  </head>
+  <body>
+			<h1>Sethapong Samaruek</h1>
+			<img src="Abtme.jpg" alt="About me"/>
+			<p>Hi everyone, you guys can call me Fluke. I'm 20 years old now and studying in Computer Engineering.
+			</p>
+			<p>My favourite hobbies are playing games, listening to musics, and watching movies.
+			</p>
+			<p>I also am the biggest Daniel Caesar's fan, he's an artist who makes an R&B/Soul musics.
+			</p>
+			<a href="https://youtu.be/UMtEAAZhgrM?si=3JnN2JqvHmlKcyBR">My favourite Daniel Caeasar's song</a>
+  </body>
+</HTML>	
