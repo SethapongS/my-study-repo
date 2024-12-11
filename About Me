@@ -5,7 +5,7 @@
   </head>
   <body>
 			<h1>Sethapong Samaruek</h1>
-			<img src="https://github.com/SethapongS/my-study-repo/blob/main/IMG_9324.jpeg" alt="About me"/>
+			<img src="https://raw.githubusercontent.com/SethapongS/my-study-repo/refs/heads/main/IMG_9324.jpeg" alt="About me" style="width:300px;height:400px;"/>
 			<p>Hi everyone, you guys can call me Fluke. I'm 20 years old now and studying in Computer Engineering.
 			</p>
 			<p>My favourite hobbies are playing games, listening to musics, and watching movies.
