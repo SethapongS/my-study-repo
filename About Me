@@ -5,6 +5,7 @@
   </head>
   <body>
 			<h1>Sethapong Samaruek</h1>
+			<hr>
 			<img src="https://raw.githubusercontent.com/SethapongS/my-study-repo/refs/heads/main/IMG_9324.jpeg" alt="About me" style="width:300px;height:400px;"/>
 			<p>Hi everyone, you guys can call me Fluke. I'm 20 years old now and studying in Computer Engineering.
 			</p>
@@ -14,4 +15,4 @@
 			</p>
 			<a href="https://youtu.be/UMtEAAZhgrM?si=3JnN2JqvHmlKcyBR"> My favourite Daniel Caeasar's song</a>
   </body>
-</HTML>	
+</HTML>
